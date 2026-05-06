@@ -2,6 +2,8 @@
 
 This **demo application** serves as a **sandbox** and **example use case** for exploring the [onboardapi](https://github.com/Rheinmetall/onboardapi) and gaining practical understanding through **hands‑on application**.
 
+![DigitalTwin](res/example.png)
+
 ### Scenario
 
 - **Drone** takes off from a **3 × 3 km valley**.
