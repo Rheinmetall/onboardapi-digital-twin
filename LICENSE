@@ -1,0 +1,8 @@
+This project uses multiple licenses:
+
+- The sample codes and presets are licensed under EPL-2.0.
+  See LICENSE-EPL-2.0.txt for the full license text.
+
+- The pre-compiled binary (available in the Releases section) 
+  is licensed under a Custom EULA.
+  See EULA-RME-SDK-1.0.txt for the full license text.
