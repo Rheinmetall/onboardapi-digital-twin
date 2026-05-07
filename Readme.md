@@ -1,6 +1,6 @@
 # onboardapi - digital twin
 
-This **demo application** serves as a **sandbox** and **example use case** for exploring the [onboardapi](https://github.com/Rheinmetall/onboardapi) and gaining practical understanding through **hands‑on application**.
+This **demo application** serves as a **sandbox** and **example use case** for exploring the [onboardapi](https://github.com/Rheinmetall/onboardapi) and gaining practical understanding through **hands‑on application**. The latest version of the application can be downloaded [here](https://github.com/Rheinmetall/onboardapi-digital-twin/releases).
 
 ![DigitalTwin](res/example.png)
 
